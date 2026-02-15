@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'jibberish';
+    src: url('https://raw.githubusercontent.com/teslaagain92-sudo/Jibberish/main/Jibberish.woff2') format('woff2');
+}
+
+body,
+input,
+textarea,
+button,
+* {
+    font-family: 'jibberish', sans-serif !important;
+}
+* {
+    font-size: 20px !important;
+}
