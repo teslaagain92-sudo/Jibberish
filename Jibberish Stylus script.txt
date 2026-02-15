@@ -1,3 +1,5 @@
+//Download Stylus add on. copy and paste into a new style and select where you want the font to apply.
+
 @font-face {
     font-family: 'jibberish';
     src: url('https://raw.githubusercontent.com/teslaagain92-sudo/Jibberish/main/Jibberish.woff2') format('woff2');
